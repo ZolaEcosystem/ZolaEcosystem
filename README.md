@@ -1,4 +1,4 @@
-# Zola Ecosystem
+# ZOLA Ecosystem
 
 Zola is an ecosystem backed by innovative blockchain technology.
 
